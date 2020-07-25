@@ -4,6 +4,8 @@
   "private": true,
   "dependencies": {
     "@azure/storage-blob": "^10.1.0-preview",
+    "dotenv": "^8.2.0",
+    "env-var": "^6.2.0",
     "namor": "^1.1.1",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",

@@ -170,6 +170,7 @@ class App extends React.Component {
                 markers={markers}
                 loading={loading}
                 onFetchData={this.fetchData}
+                minRows={10}
                 defaultPageSize={25}
                 className="-striped -highlight" /
             >
